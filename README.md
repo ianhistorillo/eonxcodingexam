@@ -1,8 +1,10 @@
-# eonxcodingexam
+EONXCODING EXAM
 
-#command: app:import-randomuser
+COMMAND for importer:
 
-#routes:
+app:import-randomuser
 
-#/create
-#/create/{id}
+Routes:
+
+/customer
+/customer/{id}
